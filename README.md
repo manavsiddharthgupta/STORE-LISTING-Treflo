@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ```React-Router```
 
 ```
-git clone https://github.com/manavsiddharthgupta/store-listing-Treflo
+git clone https://github.com/manavsiddharthgupta/store-listing-Treflo.git
 
 npm install
 
