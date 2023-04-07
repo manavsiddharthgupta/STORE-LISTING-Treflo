@@ -104,7 +104,7 @@ const CustomizePizza = (props) => {
         <h1 className="text-xl font-bold">₹{customizePizzaData.price}</h1>
         <div>
           <Button
-            className="px-[15px] py-[3px] mr-2 text-[#048654] bg-white hover:text-white border-[1px] border-[#048654]"
+            className="px-4 py-1 mr-2 text-[#048654] bg-white hover:text-white border-[1px] border-[#048654]"
             onClick={props.onSetHideModal}
           >
             Cancel
